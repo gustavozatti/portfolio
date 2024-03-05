@@ -479,15 +479,15 @@ h3 {
     animation-delay: 0.1s;
 }
 .skill-per.css{
-  width: 70%;
+  width: 80%;
   animation-delay: 0.1s;
 }
 .skill-per.javascript{
-  width: 50%;
+  width: 30%;
   animation-delay: 0.2s;
 }
 .skill-per.Python{
-  width: 70%;
+  width: 50%;
   animation-delay: 0.3s;
 }
   .skill-per.php{
